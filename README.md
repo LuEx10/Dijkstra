@@ -28,8 +28,8 @@ You’ll need these libraries to run the code:
 
 
 ## Authors
-- [Lucas Fiuza Garcia](https://github.com/LuEx10)
-- [Luis Felipe Marrote Ferreira](https://github.com/LuisFelipeMarrote)
-- [Thiago Loureiro Kosciuk](https://github.com/ThiagoKosciuk)
+- Lucas Fiuza Garcia - [GitHub](https://github.com/LuEx10)
+- Luis Felipe Marrote Ferreira - [GitHub](https://github.com/LuisFelipeMarrote)
+- Thiago Loureiro Kosciuk - [GitHub](https://github.com/ThiagoKosciuk)
 
 This project was developed for studying and practicing graph algorithms and shortest path finding.
